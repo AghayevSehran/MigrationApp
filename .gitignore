@@ -3,3 +3,6 @@
 ################################################################################
 
 /PaAzdocMigration/PaAzdocMigration/bin/Debug
+/PaAzdocMigration/.vs/PaAzdocMigration
+/PaAzdocMigration/PaAzdocMigration/obj
+/PaAzdocMigration/packages
